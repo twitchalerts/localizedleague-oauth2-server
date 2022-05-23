@@ -21,10 +21,15 @@
                 "version": "dev-master",
                 "source": {
                     "url": "https://github.com/twitchalerts/localizedleague-event.git",
-                    "type": "git"
+                    "type": "github",
+                    "reference": "master"
                 }
             }
-        }
+        },
+		{
+			"type": "url",
+			"url": "https://github.com/twitchalerts/localizedleague-oauth2-server.git"
+		}
 	],
 	"keywords": [
 		"oauth",
