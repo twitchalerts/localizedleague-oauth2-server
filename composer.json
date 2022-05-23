@@ -21,7 +21,7 @@
                 "version": "dev-master",
                 "source": {
                     "url": "https://github.com/twitchalerts/localizedleague-event.git",
-                    "type": "github",
+                    "type": "git",
                     "reference": "master"
                 }
             }
